@@ -1,1 +1,1 @@
-# thehyperultra-host
+# The Hyper Ultra
