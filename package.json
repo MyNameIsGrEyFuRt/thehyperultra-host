@@ -1,0 +1,20 @@
+{
+  "name": "thehyper",
+  "version": "1.0.0",
+  "description": "DiscordBot",
+  "main": "discord.js",
+  "scripts": {
+    "test": "node discord.js"
+  },
+  "author": "DarkLine0147",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "db": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "moment": "^2.23.0",
+    "quickdb": "^1.0.5",
+    "snekfetch": "^4.0.4"
+  }
+}
