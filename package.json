@@ -2,9 +2,9 @@
   "name": "thehyper",
   "version": "1.0.0",
   "description": "DiscordBot",
-  "main": "discord.js",
+  "main": "bot.js",
   "scripts": {
-    "test": "node discord.js"
+    "test": "node bot.js"
   },
   "author": "DarkLine0147",
   "license": "ISC",
